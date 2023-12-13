@@ -2,7 +2,7 @@
 - 👀 I’m interested in welcoming our robot overloards
 - 🌱 I’m currently learning JS and C#
 - 💞️ I’m looking to collaborate on world domination
-- 📫 How to reach me third star on the right and on to morning.
+- 📫 How to reach me? Third star on the right and on till morning.
 
 <!---
 TheDemonPickle/TheDemonPickle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
