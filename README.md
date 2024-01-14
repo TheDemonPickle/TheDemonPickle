@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheDemonPickle
 - 👀 I’m interested in welcoming our robot overloards
-- 🌱 I’m currently learning JS and C#
+- 🌱 I’m currently learning python, html/css/js
 - 💞️ I’m looking to collaborate on world domination
 - 📫 How to reach me? Third star on the right and on till morning.
 
